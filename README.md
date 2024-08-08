@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sitanshu Pathania</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://sitanshu-portfolio.netlify.app/](https://sitanshu-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio: [https://sitanshu-portfolio.netlify.app/](https://sitanshu-portfolio.netlify.app/)
 
 - 📫 How to reach me **sitanshupathania5234@gmail.com**
 
-- 📄 Know about my experiences [https://sitanshu-portfolio.netlify.app/Sitanshu_Pathania_Resume.pdf](https://sitanshu-portfolio.netlify.app/Sitanshu_Pathania_Resume.pdf)
+- 📄 My Resume: [https://sitanshu-portfolio.netlify.app/Sitanshu_Pathania_Resume.pdf](https://sitanshu-portfolio.netlify.app/Sitanshu_Pathania_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
