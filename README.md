@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sitanshu Pathania</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://sitanshu-portfolio.netlify.app/](https://sitanshu-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://sitanshu-portfolio.netlify.app/](https://sitanshu-portfolio.netlify.app/)
 
 - 📫 How to reach me **sitanshupathania5234@gmail.com**
 
-- 📄 Know about my experiences [https://sitanshu-portfolio.netlify.app/Sitanshu_Pathania_Resume.pdf](https://sitanshu-portfolio.netlify.app/Sitanshu_Pathania_Resume.pdf)
+- 📄 My Resume [https://sitanshu-portfolio.netlify.app/Sitanshu_Pathania_Resume.pdf](https://sitanshu-portfolio.netlify.app/Sitanshu_Pathania_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sitanshu-pathania-112976230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sitanshu-pathania-112976230" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sitanshupathania5234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sitanshupathania5234/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sitanshu-pathania-112976230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sitanshu-pathania-112976230" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sitanshupathania5234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sitanshupathania5234" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
